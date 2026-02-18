@@ -39,12 +39,8 @@ Transformo dados brutos em informação estruturada para decisões estratégicas
 <img width="12"/>
 <img src="https://skillicons.dev/icons?i=docker" height="60"/>
 <img width="12"/>
-<img src="https://skillicons.dev/icons?i=apache" height="60"/>
-<img width="12"/>
 <img src="https://skillicons.dev/icons?i=postgres" height="60"/>
 <img width="12"/>
-<img src="https://skillicons.dev/icons?i=mssql" height="60"/>
-
 </div>
 
 ---
