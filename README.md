@@ -1,50 +1,76 @@
-## Olá! Eu sou o Gabriel
+<h1 align="center">👋 Olá! Eu sou o Gabriel Loscano</h1>
 
-<h1 align="center">👋Olá! Eu sou o Gabriel</h1>
+<h3 align="center">
+Data Engineer | ETL & ELT | Data Lake | Data Warehouse | Arquitetura Medalhão
+</h3>
 
-###
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=apache" height="60" alt="airflow logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mssql" height="60" alt="sql server logo" />
-  <img width="12" />
-</div>
+## 🚀 Sobre mim
 
-###
+Sou profissional focado em **Engenharia de Dados**, atuando na construção de pipelines escaláveis, modelagem de dados e estruturação de ambientes analíticos orientados à tomada de decisão.
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+Tenho experiência com:
 
-###
+- 🔹 Construção de pipelines de dados (ETL / ELT)  
+- 🔹 Arquitetura Medalhão (Bronze, Silver, Gold)  
+- 🔹 Estruturação de Data Lake e Data Warehouse  
+- 🔹 Modelagem dimensional (fatos, dimensões, star schema)  
+- 🔹 Transformações com SQL e dbt  
+- 🔹 Integração e análise de dados provenientes de chatbots  
+- 🔹 Otimização de consultas e performance  
+
+Atuo conectando engenharia de dados com soluções conversacionais, estruturando dados de chatbots para geração de insights, métricas operacionais e suporte à tomada de decisão.
+
+Busco evoluir arquiteturas modernas orientadas a dados, aplicando boas práticas de governança, escalabilidade e engenharia.
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://skillicons.dev/icons?i=py" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=apache" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mssql" height="60" />
 </div>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+## 🌎 Conecte-se comigo
 
-###
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-loscano-663460186/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" />
+  </a>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=DevLoscano&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
+  <img src="https://github-profile-trophy.vercel.app?username=DevLoscano&theme=dracula&column=4&margin-w=8&margin-h=8" height="150" />
+</div>
+
+---
+
+## 🧠 Atualmente focado em
+
+- 🔥 Arquiteturas modernas de dados (Lakehouse)  
+- 🔥 Processamento distribuído com Spark / PySpark  
+- 🔥 Orquestração com Airflow  
+- 🔥 Modelagem para Data Warehouse  
+- 🔥 Chatbots e dados conversacionais  
+
+---
